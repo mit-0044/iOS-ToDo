@@ -1,4 +1,4 @@
-![iFrameScreenshot - 27:10:24, 11:25 PM 3](https://github.com/user-attachments/assets/66053811-53e1-442f-bbaf-86b5fc145ecb)# ToDo
+# ToDo
 
 An To-Do application built with SwiftUI that allows users to manage their tasks effectively. This project is structured to showcase essential features of SwiftUI and CoreData integration.
 
@@ -22,11 +22,10 @@ Clone the repository:
    ```
 
 ## Screenshots
-![LaunchScreen](https://github.com/user-attachments/assets/306ea96a-b1a2-4230-a0af-dad42517fc00)
-
-![Uploading iFrameScreenshot - 27:10:24, 11:25 PM 3.PNG![iFrameScreenshot - 27:10:24, 11:25 PM](https://github.com/user-attachments/assets/ebc32a55-576f-4486-8675-5b00c605699b)
-![iFrameScreenshot - 27:10:24, 11:25 PM 4](https://github.com/user-attachments/assets/fa5023c3-8d59-4d67-ae2d-a2eed3f469bd)
-…]()
-![iFrameScreenshot - 27:10:24, 11:25 PM 2](https://github.com/user-attachments/assets/3ba0f838-044f-48be-ae50-1170d0558508)
+<img src="https://github.com/user-attachments/assets/306ea96a-b1a2-4230-a0af-dad42517fc00" width="197.5">
+<img src="https://github.com/user-attachments/assets/66053811-53e1-442f-bbaf-86b5fc145ecb" width="197.5">
+<img src="https://github.com/user-attachments/assets/fa5023c3-8d59-4d67-ae2d-a2eed3f469bd" width="197.5">
+<img src="https://github.com/user-attachments/assets/ebc32a55-576f-4486-8675-5b00c605699b" width="197.5">
+<img src="https://github.com/user-attachments/assets/3ba0f838-044f-48be-ae50-1170d0558508" width="197.5">
 
  
